@@ -11,7 +11,7 @@ import DashBoardPage from "./pages/DashBoardPage"
 import ForgetPasswordPage from "./pages/ForgetPasswordPage"
 import ResetPasswordPage from "./pages/ResetPasswordPage"
 
-import { useAuthStore } from "./store/AuthStore"
+import  {useAuthStore}  from "./store/authStore.js"
 
 
 
