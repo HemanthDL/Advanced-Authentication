@@ -6,7 +6,7 @@ import toast from "react-hot-toast"
 
 import Input from "../components/Input"
 
-import { useAuthStore } from "../store/AuthStore"
+import { useAuthStore } from "../store/authStore.js"
 
 
 const ForgetPasswordPage = () => {

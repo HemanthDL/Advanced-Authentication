@@ -2,7 +2,7 @@ import { motion } from "framer-motion"
 import toast from "react-hot-toast"
 import { Loader } from "lucide-react"
 
-import { useAuthStore } from "../store/AuthStore"
+import { useAuthStore } from "../store/authStore.js"
 
 import { formatDate } from "../utils/formatDate"
 
